@@ -1,3 +1,5 @@
+# i add more word to the story for my exceeding requirements....
+
 print("Please enter the following: ")
 
 adjective = input("adjective: ")
@@ -9,6 +11,8 @@ verb2 = input("verb2: ")
 noun = input("noun: ")
 verb3 = input("verb3: ")
 noun2 = input("noun2: ")
+
+
 
 print("Your story is:  ")
 print(f"""The other day, I was really in trouble. It all started when I saw a very
